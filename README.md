@@ -14,3 +14,5 @@ This goal is to clean the data,analyze,visulize sales trends,order performance.
 Identified top performer categoriess and months.
 Model achieved strong accuracy(R2 score)
 Built interactive dashboard
+## file in repositary
+1.
