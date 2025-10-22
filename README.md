@@ -15,7 +15,7 @@ Identified top performer categoriess and months.
 Model achieved strong accuracy(R2 score)
 Built interactive dashboard
 ## file in repositary
-1.(sql)-https://github.com/manikandanrno25/Amazon-Sales-Analysis/blob/main/Amazon_Sales_Sql.sql
-2.(python)-https://github.com/manikandanrno25/Amazon-Sales-Analysis/blob/main/Amazon_Sales_forecast.ipynb
-3.(powerbi)-https://github.com/manikandanrno25/Amazon-Sales-Analysis/blob/main/Amazon%20_Sales%20in%20powerbi.pbix
-4.(Excel)-https://github.com/manikandanrno25/Amazon-Sales-Analysis/blob/main/amazon_sales_data_analysis%202025.xlsx
+1.**(sql)-https://github.com/manikandanrno25/Amazon-Sales-Analysis/blob/main/Amazon_Sales_Sql.sql
+2.**(python)-https://github.com/manikandanrno25/Amazon-Sales-Analysis/blob/main/Amazon_Sales_forecast.ipynb
+3.**(powerbi)-https://github.com/manikandanrno25/Amazon-Sales-Analysis/blob/main/Amazon%20_Sales%20in%20powerbi.pbix
+4.**(Excel)-https://github.com/manikandanrno25/Amazon-Sales-Analysis/blob/main/amazon_sales_data_analysis%202025.xlsx
