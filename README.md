@@ -17,5 +17,5 @@ Built interactive dashboard
 ## file in repositary
 1.(sql)-https://github.com/manikandanrno25/Amazon-Sales-Analysis/blob/main/Amazon_Sales_Sql.sql
 2.(python)-https://github.com/manikandanrno25/Amazon-Sales-Analysis/blob/main/Amazon_Sales_forecast.ipynb
-3.(powerbi)-
+3.(powerbi)-https://github.com/manikandanrno25/Amazon-Sales-Analysis/blob/main/Amazon%20_Sales%20in%20powerbi.pbix
 4.(Excel)-
